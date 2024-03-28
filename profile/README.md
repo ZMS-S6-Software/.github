@@ -7,6 +7,12 @@ Node.js project opzetten
 * Folder openen met cmd
 * npm init -y
 
+Vue.js project opzetten
+* Folder aanmaken
+* Folder openen met cmd
+* npm create vue@latest
+* volg aangegeven stappen
+  
 # Setups
 
 
