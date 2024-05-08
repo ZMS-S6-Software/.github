@@ -19,7 +19,8 @@ Vue.js project opzetten
 # Documentatie
 
 
-#Docker compose
+# Docker compose
+
 version: '3.8'
 
 services:
