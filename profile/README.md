@@ -1,4 +1,4 @@
-# Ziekehuis management systeem
+# Ziekenhuis management systeem
 In deze publieke repo zitten verschillende projecten die samen een microservice vormen.
 
 # Installatie
